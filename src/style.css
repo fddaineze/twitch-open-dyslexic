@@ -1,0 +1,36 @@
+@font-face {
+    font-family: OpenDyslexic;
+    src: url(https://fddaineze.github.io/demo/font/OpenDyslexic-Regular.woff2);
+}
+.dyslexic-header {
+    font-family:OpenDyslexic;
+    background-color: var(--color-background-base) !important;
+    border-bottom: var(--border-width-default) solid var(--color-border-base) !important;
+    display: flex !important;
+    width: 100% !important;
+    -webkit-box-pack: center !important;
+    justify-content: center !important;
+    -webkit-box-align: center !important;
+    align-items: center !important;
+    flex-shrink: 0 !important;
+    padding: 0 1rem !important;
+    z-index: var(--z-index-above) !important;
+}
+.dyslexic-header button {
+    font-family:OpenDyslexic;
+    padding: 1rem !important;
+    color: var(--color-text-alt) !important;
+    font-size: var(--font-size-6) !important;
+    font-weight: var(--font-weight-semibold) !important;
+    text-transform: uppercase !important;
+    line-height: 1.5;
+    border-right: 1px solid var(--color-border-base);
+    cursor: pointer;
+    transition: transform .2s;
+}
+.dyslexic-header button:hover {
+    transform:scale(1.1);
+}
+.dyslexic-header button:first-child {
+    border-left: 1px solid var(--color-border-base);
+}
