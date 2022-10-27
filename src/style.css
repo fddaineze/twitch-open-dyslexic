@@ -18,7 +18,7 @@
 }
 .dyslexic-header button {
     font-family:OpenDyslexic;
-    padding: 1rem !important;
+    padding: 2rem 1rem 1.5rem 1rem !important;
     color: var(--color-text-alt) !important;
     font-size: .95rem !important;
     font-weight: var(--font-weight-semibold) !important;
