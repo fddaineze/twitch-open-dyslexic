@@ -20,7 +20,7 @@
     font-family:OpenDyslexic;
     padding: 1rem !important;
     color: var(--color-text-alt) !important;
-    font-size: var(--font-size-6) !important;
+    font-size: .95rem !important;
     font-weight: var(--font-weight-semibold) !important;
     text-transform: uppercase !important;
     line-height: 1.5;
