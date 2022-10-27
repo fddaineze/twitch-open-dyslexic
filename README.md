@@ -12,6 +12,11 @@ Extensão do google chrome para Auxilio a pessoas com dislexia
 - Aumente ou diminua a fonte
 - As configurações ficam salvas para qualquer stream que você abrir
 
+Compatível com:
+- Google Chrome
+- OperaGX
+- Firefox
+
 ### Download
 
 Você pode realizar o download da última versão através [DESTE LINK](https://github.com/fddaineze/twitch-open-dyslexic).
