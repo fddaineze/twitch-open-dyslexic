@@ -5,7 +5,7 @@
 ![commits badge](https://badgen.net/github/commits/fddaineze/twitch-open-dyslexic)
 ![github badge](https://badgen.net/badge/icon/github?icon=github&label)
 
-## Twitch OpenDyslexic
+## Twitch OpenDyslexic 
 
 Extensão do google chrome para Auxilio a pessoas com dislexia
 - Troque a fonte do chat para OpenDyslexic
@@ -16,7 +16,7 @@ Extensão do google chrome para Auxilio a pessoas com dislexia
 
 Você pode realizar o download da última versão através [DESTE LINK](https://github.com/fddaineze/twitch-open-dyslexic).
 
-**Instalação**
+### Instalação
 
 1. Salve a pasta da extensão em seu computador e a descompacte.
 2. Acesse chrome://extensions/.
@@ -25,7 +25,7 @@ Você pode realizar o download da última versão através [DESTE LINK](https://
 5. Encontre e selecione a pasta do app ou extensão.
 6. Verifique ao lado da barra de endereço se ele foi carregado e funciona corretamente.
 
-**Como funciona**
+### Como funciona
 
 Ela adiciona um novo menu acima do chat da Twitch, ele seguirá o mesmo padrão de cor e tamanho do chat original, apenas adicionando novas funções.
 
@@ -34,7 +34,7 @@ Você pode utilizá-lo tanto em streams normais como em popouts
 > **Dica:** use twitch.tv/<channel_name>/chat para abrir o popup
 > *exemplo:* twitch.tv/fddaineze/chat
 
-**Parte técnica (curiosidades)**
+### Parte técnica (curiosidades)
 O css busca a fonte do meu repositório github.io, para aplicar basta usar "font-family: OpenDyslexic;"
 ```js
 @font-face {
