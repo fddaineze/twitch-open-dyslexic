@@ -1,6 +1,6 @@
 ![GitHub top language](https://img.shields.io/github/languages/top/fddaineze/twitch-open-dyslexic?color=green)
-![release](https://badgen.net/github/release/fddaineze/twitch-open-dyslexic?color=green)
 ![GitHub stars](https://img.shields.io/github/stars/fddaineze/twitch-open-dyslexic.svg)
+![release](https://badgen.net/github/release/fddaineze/twitch-open-dyslexic?color=green)
 ![license](https://badgen.net/github/license/fddaineze/twitch-open-dyslexic)
 ![chrome](https://badgen.net/badge/icon/chrome?icon=chrome&label)
 ![firefox](https://badgen.net/badge/icon/firefox?icon=firefox&label)
