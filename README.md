@@ -1,6 +1,5 @@
 ![GitHub top language](https://img.shields.io/github/languages/top/fddaineze/twitch-open-dyslexic)
 ![GitHub stars](https://img.shields.io/github/stars/fddaineze/twitch-open-dyslexic.svg)
-![github badge](https://badgen.net/badge/icon/github?icon=github&label)
 ![license badge](https://badgen.net/github/license/fddaineze/twitch-open-dyslexic)
 ![last commit badge](https://badgen.net/github/last-commit/fddaineze/twitch-open-dyslexic)
 ![commits badge](https://badgen.net/github/commits/fddaineze/twitch-open-dyslexic)
