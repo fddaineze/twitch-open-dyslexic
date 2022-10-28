@@ -18,7 +18,6 @@ Extensão do google chrome para Auxilio a pessoas com dislexia
 Compatível com:
 - Google Chrome, OperaGX e Firefox
 
-<img src="img/antes.png" alt="demonstração de tela">
 <img src="img/depois.png" alt="demonstração de tela">
 
 Download
