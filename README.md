@@ -9,7 +9,6 @@
 
 # Twitch OpenDyslexic 
 
-<img src="img/logo.png" alt="Logo">
 Extensão do google chrome para Auxilio a pessoas com dislexia
 - Troque a fonte do chat para OpenDyslexic
 - Aumente ou diminua o tamanho da fonte
