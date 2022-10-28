@@ -1,5 +1,5 @@
 ![GitHub top language](https://img.shields.io/github/languages/top/fddaineze/twitch-open-dyslexic?color=green)
-![release badge](https://badgen.net/github/release/babel/babel?color=green)
+![release badge](https://badgen.net/github/release/fddaineze/twitch-open-dyslexic?color=green)
 ![GitHub stars](https://img.shields.io/github/stars/fddaineze/twitch-open-dyslexic.svg)
 ![license badge](https://badgen.net/github/license/fddaineze/twitch-open-dyslexic)
 ![last commit badge](https://badgen.net/github/last-commit/fddaineze/twitch-open-dyslexic)
