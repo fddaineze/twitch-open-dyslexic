@@ -21,7 +21,7 @@ Compatível com:
 
 ### Download
 
-Você pode realizar o download da última versão através [DESTE LINK](https://github.com/fddaineze/twitch-open-dyslexic/releases/tag/v1.0.0).
+Você pode realizar o download da última versão através [DESTE LINK](https://github.com/fddaineze/twitch-open-dyslexic/releases).
 
 ### Instalação
 
