@@ -23,8 +23,8 @@ Compatível com:
 Download
 --------
 
-Faça o download diretamente da loja "Chrome Web Store [AQUI](https://chrome.google.com/webstore/detail/twitch-opendyslexic/oioghpbclkcnfnomgmppjdojhpabopil)
-Você pode realizar o download da última versão através [DESTE LINK](https://github.com/fddaineze/twitch-open-dyslexic/releases).
+- Faça o download diretamente da loja "Chrome Web Store [AQUI](https://chrome.google.com/webstore/detail/twitch-opendyslexic/oioghpbclkcnfnomgmppjdojhpabopil)
+- Você pode realizar o download da última versão através [DESTE LINK](https://github.com/fddaineze/twitch-open-dyslexic/releases).
 
 Instalação
 --------
