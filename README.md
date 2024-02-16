@@ -10,6 +10,8 @@
 
 # Twitch OpenDyslexic 
 
+## Novidade: Agora com suporte para lives do Youtube!
+
 Extensão do google chrome para Auxilio a pessoas com dislexia
 - Troque a fonte do chat para OpenDyslexic
 - Aumente ou diminua o tamanho da fonte
